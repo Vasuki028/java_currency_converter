@@ -1,10 +1,3 @@
-/******************************************************************************
-
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
-
-*******************************************************************************/
 import java.util.HashMap; 
 import java.util.Map; 
 import java.util.Scanner; 
@@ -47,7 +40,7 @@ System.out.println(entry.getKey() + ": " + entry.getValue());
 } 
 } 
 } 
-public class Main { 
+public class currency { 
 public static void main(String[] args) { 
 Scanner scanner = new Scanner(System.in); 
 CurrencyConverter currencyConverter = new CurrencyConverter(); 
